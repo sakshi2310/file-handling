@@ -1,0 +1,31 @@
+
+account no:1234
+name:sakshi
+type:saving accout
+account balance:12000
+------------------------------------------
+account no:2345
+name:disha
+type:current account
+account balance:15000
+------------------------------------------
+account no:2309
+name:ved
+type:saving accout
+account balance:10000
+------------------------------------------
+account no:8070
+name:disha
+type:saving accout
+account balance:10000
+------------------------------------------
+account no:1290
+name:veeru
+type:saving accout
+account balance:6000
+------------------------------------------
+account no:2345
+name:dhuli
+type:current account
+account balance:12000
+------------------------------------------
