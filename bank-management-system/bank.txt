@@ -14,11 +14,6 @@ name:ved
 type:saving accout
 account balance:10000
 ------------------------------------------
-account no:8070
-name:disha
-type:saving accout
-account balance:10000
-------------------------------------------
 account no:1290
 name:veeru
 type:saving accout
@@ -38,4 +33,9 @@ account no:7890
 name:yash
 type:current account
 account balance:25000
+------------------------------------------
+account no:7856
+name:mit
+type:saving accout
+account balance:8000
 ------------------------------------------
