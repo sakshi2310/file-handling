@@ -29,3 +29,13 @@ name:dhuli
 type:current account
 account balance:12000
 ------------------------------------------
+account no:7890
+name:yash
+type:current account
+account balance:25000
+------------------------------------------
+account no:7890
+name:yash
+type:current account
+account balance:25000
+------------------------------------------
