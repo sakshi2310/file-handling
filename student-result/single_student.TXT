@@ -1,0 +1,14 @@
+name = isha
+marks = 56
+marks = 78
+marks = 45
+marks = 90
+marks = 56
+
+total =325
+per = 65.0
+min = 45
+maximum = 90
+result = PASS
+grade = B2
+-------------------------------------------
