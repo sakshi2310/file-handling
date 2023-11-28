@@ -145,6 +145,7 @@ class student_result:
 
    def delete(s):
       s = open('student_RESULT.TXT','w')
+      print("your data has been deleted...")
       s.write('')
       s.close()
 
