@@ -27,12 +27,22 @@ class bank:
                          break
           s.user_name = input("enter the name:")
           s.acc_no = 1
+          w = open('bank.txt','r')
+          acc = w.read()
+          s.split_date()
           while int(s.acc_no) >= 1:
                s.acc_no = input("enter the account no:")
                l = len(s.acc_no)
                if l >= 4:
                     break
+          for i in range(len(s.a_no)):
+               for j in range(len(s.a_no[i])):
+                    if j == 1:
+                         if s.acc_no == s.a_no[i][j]:
+                              print("This account is already axit")
+                              break
           
+     
 
           
 
@@ -90,6 +100,8 @@ class bank:
                if len(i) >=2:
                     temp = i[0]
                     s.a_no.append(temp.split(":"))
+          print(s.s_l)
+          print(s.a_no)
                   
                             
      def login(s):
