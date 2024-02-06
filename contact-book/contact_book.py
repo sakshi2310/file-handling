@@ -16,7 +16,7 @@ class contact_book:
                f.write("\npassword:"+s.password)
                f.write("\n----------------------------------------")
           elif c == 2:
-               f = open('contacts.txt','a')
+               f = open('contact.txt','a')
                f.write("\nId:"+s.contact_id  )
                f.write("\nreference id:"+s.referce_id)
                f.write("\nname:"+s.contact_name)
@@ -29,16 +29,14 @@ class contact_book:
           if int(choise) == 1:
                f = open('contact_book.txt','r')
           elif int(choise) == 2:
-               f = open('contacts.txt','r')
+               f = open('contact_book.txt','r')
                
           s.r = f.read()
           s.sp_line = s.r.split("----------------------------------------")
-          # print(s.sp_line)
 
           s.new_line = []
           for i in s.sp_line:
                s.new_line.append(i.split("\n"))
-          # print(s.new_line)
 
           s.remove_space = []
           for i in s.new_line:
@@ -48,7 +46,6 @@ class contact_book:
                          if j:
                               temp.append(j)
                     s.remove_space.append(temp)
-          # print(s.remove_space)
 
           s.emails = []
           s.passwords = []
@@ -66,7 +63,6 @@ class contact_book:
           for i in range(len(s.emails)):
                if s.l_email == s.emails[i][1]:
                     s.temp_ac_e= s.remove_space[i] 
-          # print(s.user_acc_e) 
           for i in range(len(s.passwords)):
                if s.l_ps == s.passwords[i][1]:
                     s.temp_ac_ps = s.remove_space[i] 
@@ -188,3 +184,5 @@ def main_page():
                break
 
 main_page()
+
+
