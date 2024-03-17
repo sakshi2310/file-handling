@@ -1,0 +1,112 @@
+Roll_no. = 1 
+ Name = xyz 
+ sub1 = 99 
+ sub2 = 98 
+ sub3 = 97 
+ sub4 = 98 
+ sub5 = 99 
+ Total = 491 
+ Per = 98.2 
+ Min = 97 
+ Max = 99 
+ Result = PASS 
+ Grade = First Class 
+ 
+-----------------------------------------------
+
+Roll_no. = 2 
+ Name = xyz_1 
+ sub1 = 65 
+ sub2 = 65 
+ sub3 = 51 
+ sub4 = 53 
+ sub5 = 57 
+ Total = 291 
+ Per = 58.2 
+ Min = 51 
+ Max = 65 
+ Result = PASS 
+ Grade = Second Class 
+ 
+-----------------------------------------------
+
+Roll_no. = 3 
+ Name = wxyz 
+ sub1 = 96 
+ sub2 = 65 
+ sub3 = 65 
+ sub4 = 66 
+ sub5 = 68 
+ Total = 360 
+ Per = 72.0 
+ Min = 65 
+ Max = 96 
+ Result = PASS 
+ Grade = Second Class 
+ 
+-----------------------------------------------
+
+Roll_no. = 4 
+ Name = abc_1 
+ sub1 = 65 
+ sub2 = 63 
+ sub3 = 33 
+ sub4 = 34 
+ sub5 = 55 
+ Total = 250 
+ Per = 0 
+ Min = 33 
+ Max = 65 
+ Result = AT_KT 
+ Grade = --- 
+ 
+-----------------------------------------------
+
+Roll_no. = 6 
+ Name = xyz_2 
+ sub1 = 20 
+ sub2 = 56 
+ sub3 = 21 
+ sub4 = 33 
+ sub5 = 78 
+ Total = 208 
+ Per = 0 
+ Min = 20 
+ Max = 78 
+ Result = FAIL 
+ Grade = --- 
+ 
+-----------------------------------------------
+
+Roll_no. = 7 
+ Name = abc_2 
+ sub1 = 45 
+ sub2 = 44 
+ sub3 = 64 
+ sub4 = 47 
+ sub5 = 43 
+ Total = 243 
+ Per = 48.6 
+ Min = 43 
+ Max = 64 
+ Result = PASS 
+ Grade = Third Class 
+ 
+-----------------------------------------------
+
+Roll_no. = 5 
+ Name = xyz_3 
+ sub1 = 98 
+ sub2 = 65 
+ sub3 = 69 
+ sub4 = 56 
+ sub5 = 66 
+ Total = 354 
+ Per = 70.8 
+ Min = 56 
+ Max = 98 
+ Result = PASS 
+ Grade = Second Class 
+ 
+-----------------------------------------------
+
